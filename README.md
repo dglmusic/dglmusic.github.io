@@ -1,6 +1,10 @@
 # DGL Music Production
-this be my new website yarrrrrrr
+I Will Make You A Song
 
 ## Services
-- Pop Song 
-- Something else
+- Pop Song
+- Rock Song
+- Metal Song
+- Hip Hop Song
+- Trap Song
+- Video Game Song
